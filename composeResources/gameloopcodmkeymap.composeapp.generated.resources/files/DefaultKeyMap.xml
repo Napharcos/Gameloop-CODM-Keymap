@@ -587,7 +587,7 @@
         </KeyMapping>
         <KeyMapping ItemName="$qName" Point_X="0.785000" Point_Y="0.440000" Description="字母键" MiniVisiable="true" MiniDisable="false" AutoCancel="0" AsciiCode="$qCode"/>
         <KeyMapping ItemName="$eName" Point_X="0.874375" Point_Y="0.436667" Description="字母键划线" MiniVisiable="true" MiniDisable="false" AutoCancel="0" AsciiCode="$eCode"/>
-        <KeyMapping ItemName="$rName" Point_X="0.961250" Point_Y="0.434444" Description="字母键" MiniVisiable="true" MiniDisable="false" AutoCancel="0" AsciiCode="$rName"/>
+        <KeyMapping ItemName="$rName" Point_X="0.961250" Point_Y="0.434444" Description="字母键" MiniVisiable="true" MiniDisable="false" AutoCancel="0" AsciiCode="$rCode"/>
         <KeyMapping ItemName="$mName" Point_X="0.970313" Point_Y="0.062500" Description="打开地图" MiniVisiable="false" MiniDisable="false" AsciiCode="$mCode">
             <SwitchOperation Description="打开地图" EnableSwitch="SetUp" DisableSwitch="InSetUp|ReturnSetUp|Knife2|Diamond1|Diamond2|Diamond3|Diamond4|HangUp|MissileVolley|Cartoon" Point_X="0.967969" Point_Y="0.079167"/>
         </KeyMapping>
