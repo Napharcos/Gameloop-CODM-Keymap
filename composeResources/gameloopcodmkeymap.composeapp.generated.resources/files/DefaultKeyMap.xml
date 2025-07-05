@@ -598,14 +598,14 @@
             <SwitchOperation Description="移动" EnableSwitch="SetUp" DisableSwitch="DriveMode1|DriveMode1Press"/>
             <SwitchOperation Description="移动" EnableSwitch="SteeringWheel" DisableSwitch="DriveMode1|DriveMode1Press"/>
         </KeyMappingEx>
-        <KeyMappingEx ItemName="Left Mouse Button" Point_X="0.060937" Point_Y="0.519444" Description="开火" MiniVisiable="false" MiniDisable="false" AutoActive="1" Type="LClick" LOCK_AsciiCode="88" AsciiCode="88">
+        <KeyMappingEx ItemName="Left Mouse Button" Point_X="0.060937" Point_Y="0.519444" Description="开火" MiniVisiable="false" MiniDisable="false" AutoActive="1" Type="LClick" LOCK_AsciiCode="$lockMouseCode">
             <SwitchOperation Description="锁定（躲猫猫）" EnableSwitch="Flash2" DisableSwitch="InSetUp|Diamond1|Diamond2|Diamond3|Diamond4|HangUp|ReturnSetUp|Knife2|Cartoon" Point_X="0.848437" Point_Y="0.709722"/>
             <SwitchOperation Description="上飞" EnableSwitch="FlyUp" DisableSwitch="XBtn|MapOpenFlag|InSetUp|BreastPatting|ReturnSetUp|Knife2|SkillX|Hand2|Turret|Turret1" Point_X="0.885156" Point_Y="0.541667" HideTips="1"/>
             <SwitchOperation Description="弓箭" EnableSwitch="Bow" DisableSwitch="InSetUp|BreastPatting|ReturnSetUp|Knife2|Diamond1|Diamond2|Diamond3|Diamond4|HangUp|WatchTeammates|SelectFireMode" Point_X="0.854688" Point_Y="0.745833" HideTips="1"/>
             <SwitchOperation Description="射击" EnableSwitch="SetUp" DisableSwitch="InSetUp|BreastPatting|ReturnSetUp|Knife2|Diamond1|Diamond2|Diamond3|Diamond4|HangUp|WatchTeammates|Cartoon" Point_X="0.060937" Point_Y="0.519444" HideTips="1"/>
             <SwitchOperation Description="射击" EnableSwitch="Reload" DisableSwitch="InSetUp|BreastPatting|ReturnSetUp|Knife2|Diamond1|Diamond2|Diamond3|Diamond4|HangUp|WatchTeammates|SelectFireMode|Cartoon" Point_X="0.060937" Point_Y="0.519444" HideTips="1"/>
         </KeyMappingEx>
-        <KeyMappingEx ItemName="Move with Mouse" Point_X="0.661719" Point_Y="0.369444" Description="视角" MiniVisiable="false" MiniDisable="false" HideTipsAlways="1" AutoActive="1" Raw="1" Type="RClick" Offset="0.450000" LOCK_AsciiCode="88" AsciiCode="88" Sensi_X="1.000000" Sensi_Y="1.000000">
+        <KeyMappingEx ItemName="Move with Mouse" Point_X="0.661719" Point_Y="0.369444" Description="视角" MiniVisiable="false" MiniDisable="false" HideTipsAlways="1" AutoActive="1" Raw="1" Type="RClick" Offset="0.450000" LOCK_AsciiCode="$lockMouseCode" AsciiCode="$lockMouseCode" Sensi_X="1.000000" Sensi_Y="1.000000">
             <SwitchOperation Description="视角" EnableSwitch="SetUp" DisableSwitch="InSetUp|ReturnSetUp|Knife2|BreastPatting|Diamond1|Diamond2|Diamond3|Diamond4|SelectFireMode|HangUp|YellowM|Hand|WatchTeammates|Cartoon|Transformation|Shop2"/>
             <SwitchOperation Description="视角" EnableSwitch="Reload" DisableSwitch="InSetUp|ReturnSetUp|Knife2|BreastPatting|Diamond1|Diamond2|Diamond3|Diamond4|SelectFireMode|HangUp|YellowM|Hand|WatchTeammates|Cartoon|Transformation|Shop2"/>
             <SwitchOperation Description="视角" EnableSwitch="SteeringWheel" DisableSwitch="InSetUp|ReturnSetUp|Knife2|BreastPatting|Diamond1|Diamond2|Diamond3|Diamond4|SelectFireMode|HangUp|YellowM|Hand|WatchTeammates|Cartoon|Transformation|Shop2"/>
