@@ -1,7 +1,7 @@
 <Item ApkName="com.activision.callofduty.shooter" 备注="使命召唤西方服" VersionCode="4400">
     <StartInfo StartTimes="$startTime"/>
     <LastMode ModeID="$id" EnableTips="$tips" EnableGameKeyDT="$gameKey" TipsTransparent="$transparent" Lightness="$lightness" EnableSwitchViewLockMethod="$switch" ExitFullScreenKey="$fullScreenKey"/>
-    <VersionInfo Version="55" ReqFeatureVer="7" CurFeatureVer="8"/>
+    <VersionInfo Version="56" ReqFeatureVer="7" CurFeatureVer="8"/>
     <Switch Name="Aarmor" TextureId="166"/>
     <Switch Name="Airdrop" TextureId="88"/>
     <Switch Name="Airdrop2" TextureId="89"/>
